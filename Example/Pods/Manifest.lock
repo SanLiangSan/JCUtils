@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (4.0.1)
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
-  - JCUtils (0.0.1):
+  - JCUtils (0.0.2):
     - AFNetworking (~> 4.0)
 
 DEPENDENCIES:
@@ -30,7 +30,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
-  JCUtils: 693311a418c2bad19a6d6c32f4b29f2440d0eeb7
+  JCUtils: c62d2df5831eafdf91d32bac8041a4ec7c0c7408
 
 PODFILE CHECKSUM: 723ea7328f3b2842c78e01fe21a74509f12d2a5d
 
