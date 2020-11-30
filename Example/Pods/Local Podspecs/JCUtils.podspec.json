@@ -1,0 +1,27 @@
+{
+  "name": "JCUtils",
+  "version": "0.0.1",
+  "summary": "A short description of JCUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SanLiangSan",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "254458886@qq.com": "xuxingling2020@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/SanLiangSan/JCUtils.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JCUtils/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 4.0"
+    ]
+  }
+}
